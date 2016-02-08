@@ -46,6 +46,31 @@ import sys
 # Then print_words() and print_top() can just call the utility function.
 
 ###
+def read_word(filename):
+  f = open(filename,'rU')
+  count_dict = {}
+  for line in f:
+    read_line = line.lower().split()
+    for word in read_line:
+      if not word.isalpha(): continue
+      if word in count_dict: count_dict[word] += 1
+      else : count_dict[word] = 1
+  count_tuple = sorted(count_dict.items(),key=second,reverse=True)
+  return count_tuple
+
+def print_top(filename):
+  count_tuple = read_word(filename)
+  for i in range(0,20):
+    if i>=len(count_tuple): break
+    print count_tuple[i][0],' ',count_tuple[i][1]
+
+
+def print_words(filename):
+  count_tuple = read_word(filename)
+  for k,v in count_tuple : print k," ",v
+ 
+def second(count_word):
+  return count_word[1]   
 
 # This basic command line argument parsing code is provided and
 # calls the print_words() and print_top() functions which you must define.
