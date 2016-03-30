@@ -1,0 +1,20 @@
+groupA
+Colombia
+Japan
+Mexico
+France
+groupB
+USA
+Saudi Arabia
+India
+Argentina
+groupC
+Bangladesh
+Germany
+Panama
+Netherlands
+groupD
+Brazil
+Spain
+Italy
+England

@@ -1,0 +1,24 @@
+Brazil, Italy, 1, 7
+Brazil, Spain, 9, 9
+USA, Saudi Arabia, 0, 9
+USA, Argentina, 3, 5
+Spain, Italy, 0, 8
+Bangladesh, Germany, 9, 9
+Saudi Arabia, Argentina, 2, 9
+Brazil, England, 2, 8
+Bangladesh, Netherlands, 2, 5
+Germany, Panama, 3, 2
+Mexico, France, 4, 6
+Saudi Arabia, India, 5, 6
+Panama, Netherlands, 1, 2
+Japan, Mexico, 8, 2
+India, Argentina, 5, 7
+USA, India, 2, 3
+Colombia, Mexico, 3, 9
+Spain, England, 1, 3
+Colombia, Japan, 9, 7
+Italy, England, 4, 9
+Colombia, France, 2, 8
+Japan, France, 4, 4
+Germany, Netherlands, 7, 4
+Bangladesh, Panama, 6, 7
