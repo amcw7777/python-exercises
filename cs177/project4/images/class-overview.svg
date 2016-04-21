@@ -1,0 +1,361 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   width="210mm"
+   height="297mm"
+   viewBox="0 0 744.09448819 1052.3622047"
+   id="svg2"
+   version="1.1"
+   inkscape:version="0.91 r13725"
+   sodipodi:docname="overview.svg">
+  <defs
+     id="defs4">
+    <marker
+       inkscape:stockid="Arrow1Lend"
+       orient="auto"
+       refY="0.0"
+       refX="0.0"
+       id="marker5077"
+       style="overflow:visible;"
+       inkscape:isstock="true">
+      <path
+         id="path5079"
+         d="M 0.0,0.0 L 5.0,-5.0 L -12.5,0.0 L 5.0,5.0 L 0.0,0.0 z "
+         style="fill-rule:evenodd;stroke:#000000;stroke-width:1pt;stroke-opacity:1;fill:#000000;fill-opacity:1"
+         transform="scale(0.8) rotate(180) translate(12.5,0)" />
+    </marker>
+    <marker
+       inkscape:stockid="Arrow1Lend"
+       orient="auto"
+       refY="0.0"
+       refX="0.0"
+       id="Arrow1Lend"
+       style="overflow:visible;"
+       inkscape:isstock="true">
+      <path
+         id="path4660"
+         d="M 0.0,0.0 L 5.0,-5.0 L -12.5,0.0 L 5.0,5.0 L 0.0,0.0 z "
+         style="fill-rule:evenodd;stroke:#000000;stroke-width:1pt;stroke-opacity:1;fill:#000000;fill-opacity:1"
+         transform="scale(0.8) rotate(180) translate(12.5,0)" />
+    </marker>
+  </defs>
+  <sodipodi:namedview
+     id="base"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:pageopacity="0.0"
+     inkscape:pageshadow="2"
+     inkscape:zoom="1.15"
+     inkscape:cx="230.35771"
+     inkscape:cy="525.66119"
+     inkscape:document-units="px"
+     inkscape:current-layer="layer1"
+     showgrid="false"
+     inkscape:window-width="1920"
+     inkscape:window-height="1108"
+     inkscape:window-x="0"
+     inkscape:window-y="0"
+     inkscape:window-maximized="1" />
+  <metadata
+     id="metadata7">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title></dc:title>
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <g
+     inkscape:label="Layer 1"
+     inkscape:groupmode="layer"
+     id="layer1">
+    <rect
+       style="color:#000000;clip-rule:nonzero;display:inline;overflow:visible;visibility:visible;opacity:1;isolation:auto;mix-blend-mode:normal;color-interpolation:sRGB;color-interpolation-filters:linearRGB;solid-color:#000000;solid-opacity:1;fill:none;fill-opacity:1;fill-rule:evenodd;stroke:#000000;stroke-width:10.4856472;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;color-rendering:auto;image-rendering:auto;shape-rendering:auto;text-rendering:auto;enable-background:accumulate"
+       id="rect4136"
+       width="365.71359"
+       height="464.92731"
+       x="-258.0025"
+       y="165.91249" />
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:30px;line-height:125%;font-family:sans-serif;-inkscape-font-specification:'sans-serif Bold';letter-spacing:0px;word-spacing:0px;fill:#0000ff;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       x="-154.85542"
+       y="213.33369"
+       id="text4138"
+       sodipodi:linespacing="125%"><tspan
+         sodipodi:role="line"
+         id="tspan4140"
+         x="-154.85542"
+         y="213.33369"
+         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:30px;font-family:sans-serif;-inkscape-font-specification:'sans-serif Bold';fill:#0000ff;fill-opacity:1">Tetrimino</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-weight:normal;font-size:40px;line-height:125%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       x="-236.52176"
+       y="253.23177"
+       id="text4192"
+       sodipodi:linespacing="125%"><tspan
+         sodipodi:role="line"
+         x="-236.52176"
+         y="253.23177"
+         id="tspan4222"
+         style="font-size:25px;fill:#ff0000;fill-opacity:1">Variables:</tspan><tspan
+         sodipodi:role="line"
+         x="-236.52176"
+         y="284.48178"
+         id="tspan4226"
+         style="font-size:25px">-state (Integer)</tspan><tspan
+         sodipodi:role="line"
+         x="-236.52176"
+         y="315.73178"
+         id="tspan4204"
+         style="font-size:25px">-coordinates (List of (x,y))</tspan><tspan
+         sodipodi:role="line"
+         x="-236.52176"
+         y="346.98178"
+         id="tspan4206"
+         style="font-size:25px">-tetris_window</tspan><tspan
+         sodipodi:role="line"
+         x="-236.52176"
+         y="378.23178"
+         id="tspan4228"
+         style="font-size:25px;fill:#ff0000;fill-opacity:1;stroke:none;stroke-opacity:1">Functions:</tspan><tspan
+         sodipodi:role="line"
+         x="-236.52176"
+         y="409.48178"
+         id="tspan4220"
+         style="font-size:25px">-get_color() (Given.)</tspan><tspan
+         sodipodi:role="line"
+         x="-236.52176"
+         y="440.73178"
+         id="tspan4208"
+         style="font-size:25px">-move_down()</tspan><tspan
+         sodipodi:role="line"
+         x="-236.52176"
+         y="471.98175"
+         id="tspan4210"
+         style="font-size:25px">-move_left()</tspan><tspan
+         sodipodi:role="line"
+         x="-236.52176"
+         y="503.23175"
+         id="tspan4212"
+         style="font-size:25px">-move_right()</tspan><tspan
+         sodipodi:role="line"
+         x="-236.52176"
+         y="534.48175"
+         id="tspan4214"
+         style="font-size:25px">-has_landed()</tspan><tspan
+         sodipodi:role="line"
+         x="-236.52176"
+         y="565.73175"
+         id="tspan4216"
+         style="font-size:25px">-land()</tspan><tspan
+         sodipodi:role="line"
+         x="-236.52176"
+         y="596.98175"
+         id="tspan4218"
+         style="font-size:25px">-draw_tetrimino()</tspan></text>
+    <rect
+       y="159.8317"
+       x="326.3515"
+       height="611.00189"
+       width="494.39688"
+       id="rect4426"
+       style="color:#000000;clip-rule:nonzero;display:inline;overflow:visible;visibility:visible;opacity:1;isolation:auto;mix-blend-mode:normal;color-interpolation:sRGB;color-interpolation-filters:linearRGB;solid-color:#000000;solid-opacity:1;fill:none;fill-opacity:1;fill-rule:evenodd;stroke:#000000;stroke-width:13.97627068;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;color-rendering:auto;image-rendering:auto;shape-rendering:auto;text-rendering:auto;enable-background:accumulate" />
+    <text
+       sodipodi:linespacing="125%"
+       id="text4428"
+       y="199.42064"
+       x="444.27502"
+       style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:30px;line-height:125%;font-family:sans-serif;-inkscape-font-specification:'sans-serif Bold';letter-spacing:0px;word-spacing:0px;fill:#0000ff;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       xml:space="preserve"><tspan
+         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:30px;font-family:sans-serif;-inkscape-font-specification:'sans-serif Bold';fill:#0000ff;fill-opacity:1"
+         y="199.42064"
+         x="444.27502"
+         id="tspan4430"
+         sodipodi:role="line">Tetris_Window</tspan></text>
+    <text
+       sodipodi:linespacing="125%"
+       id="text4432"
+       y="245.40565"
+       x="346.08694"
+       style="font-style:normal;font-weight:normal;font-size:40px;line-height:125%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       xml:space="preserve"><tspan
+         style="font-size:25px;fill:#ff0000;fill-opacity:1"
+         id="tspan4434"
+         y="245.40565"
+         x="346.08694"
+         sodipodi:role="line">Variables:</tspan><tspan
+         style="font-size:25px"
+         id="tspan4440"
+         y="276.65564"
+         x="346.08694"
+         sodipodi:role="line">-block_size (Integer)</tspan><tspan
+         style="font-size:25px"
+         y="307.90564"
+         x="346.08694"
+         sodipodi:role="line"
+         id="tspan4463">-num_blocks_x (Integer)</tspan><tspan
+         style="font-size:25px"
+         y="339.15564"
+         x="346.08694"
+         sodipodi:role="line"
+         id="tspan4465">-num_blocks_y (Integer)</tspan><tspan
+         style="font-size:25px"
+         y="370.40564"
+         x="346.08694"
+         sodipodi:role="line"
+         id="tspan4481">-width (Integer)</tspan><tspan
+         style="font-size:25px"
+         y="401.65564"
+         x="346.08694"
+         sodipodi:role="line"
+         id="tspan4483">-height (Integer)</tspan><tspan
+         style="font-size:25px"
+         y="432.90564"
+         x="346.08694"
+         sodipodi:role="line"
+         id="tspan4467">-surface (Pygame window)</tspan><tspan
+         style="font-size:25px"
+         y="464.15564"
+         x="346.08694"
+         sodipodi:role="line"
+         id="tspan4471">-landed_objects (List of</tspan><tspan
+         style="font-size:25px"
+         y="495.40564"
+         x="346.08694"
+         sodipodi:role="line"
+         id="tspan4487">        ((x,y),(r,g,b))</tspan><tspan
+         style="font-size:25px;fill:#ff0000;fill-opacity:1;stroke:none;stroke-opacity:1"
+         id="tspan4442"
+         y="526.65564"
+         x="346.08694"
+         sodipodi:role="line">Functions:</tspan><tspan
+         style="font-size:25px"
+         id="tspan4444"
+         y="557.90564"
+         x="346.08694"
+         sodipodi:role="line">-all_inside()</tspan><tspan
+         style="font-size:25px"
+         id="tspan4446"
+         y="589.15564"
+         x="346.08694"
+         sodipodi:role="line">-has_collision_with_landed_objects()</tspan><tspan
+         style="font-size:25px"
+         id="tspan4456"
+         y="620.40564"
+         x="346.08694"
+         sodipodi:role="line">-add_tetrimino_to_landed_objects()</tspan><tspan
+         style="font-size:25px"
+         y="651.65564"
+         x="346.08694"
+         sodipodi:role="line"
+         id="tspan4531">-update_landed_objects()</tspan><tspan
+         style="font-size:25px"
+         y="682.90564"
+         x="346.08694"
+         sodipodi:role="line"
+         id="tspan4533">-is_game_over()</tspan><tspan
+         style="font-size:25px"
+         y="714.15564"
+         x="346.08694"
+         sodipodi:role="line"
+         id="tspan4535">-draw_grid()</tspan><tspan
+         style="font-size:25px"
+         y="745.40564"
+         x="346.08694"
+         sodipodi:role="line"
+         id="tspan4537">-draw_landed_objects()</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-weight:normal;font-size:40px;line-height:125%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       x="517.3913"
+       y="405.40567"
+       id="text4473"
+       sodipodi:linespacing="125%"><tspan
+         sodipodi:role="line"
+         x="517.3913"
+         y="405.40567"
+         id="tspan4477" /></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-weight:normal;font-size:40px;line-height:125%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       x="439.13043"
+       y="670.62305"
+       id="text4505"
+       sodipodi:linespacing="125%"><tspan
+         sodipodi:role="line"
+         id="tspan4507"
+         x="439.13043"
+         y="670.62305" /></text>
+    <rect
+       y="707.42542"
+       x="-257.35913"
+       height="182.77101"
+       width="363.55728"
+       id="rect4583"
+       style="color:#000000;clip-rule:nonzero;display:inline;overflow:visible;visibility:visible;opacity:1;isolation:auto;mix-blend-mode:normal;color-interpolation:sRGB;color-interpolation-filters:linearRGB;solid-color:#000000;solid-opacity:1;fill:none;fill-opacity:1;fill-rule:evenodd;stroke:#000000;stroke-width:6.55499315;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;color-rendering:auto;image-rendering:auto;shape-rendering:auto;text-rendering:auto;enable-background:accumulate" />
+    <text
+       sodipodi:linespacing="125%"
+       id="text4585"
+       y="755.07281"
+       x="-213.98586"
+       style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:30px;line-height:125%;font-family:sans-serif;-inkscape-font-specification:'sans-serif Bold';letter-spacing:0px;word-spacing:0px;fill:#0000ff;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       xml:space="preserve"><tspan
+         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:30px;font-family:sans-serif;-inkscape-font-specification:'sans-serif Bold';fill:#0000ff;fill-opacity:1"
+         y="755.07281"
+         x="-213.98586"
+         id="tspan4587"
+         sodipodi:role="line">TetriminoFactory</tspan></text>
+    <text
+       sodipodi:linespacing="125%"
+       id="text4589"
+       y="771.49261"
+       x="-233.91306"
+       style="font-style:normal;font-weight:normal;font-size:40px;line-height:125%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       xml:space="preserve"><tspan
+         style="font-size:25px"
+         id="tspan4597"
+         y="771.49261"
+         x="-233.91306"
+         sodipodi:role="line" /><tspan
+         style="font-size:25px;fill:#ff0000;fill-opacity:1;stroke:none;stroke-opacity:1"
+         id="tspan4599"
+         y="802.74261"
+         x="-233.91306"
+         sodipodi:role="line">Functions:</tspan><tspan
+         style="font-size:25px"
+         id="tspan4613"
+         y="833.99261"
+         x="-233.91306"
+         sodipodi:role="line">-get_random_object()</tspan></text>
+    <path
+       style="fill:none;fill-rule:evenodd;stroke:#000000;stroke-width:2;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;marker-end:url(#marker5077)"
+       d="m -46.086956,340.18829 349.495776,0"
+       id="path4651"
+       inkscape:connector-curvature="0" />
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-weight:normal;font-size:40px;line-height:125%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       x="424.34784"
+       y="359.31873"
+       id="text5332"
+       sodipodi:linespacing="125%"><tspan
+         sodipodi:role="line"
+         id="tspan5334"
+         x="424.34784"
+         y="359.31873"> </tspan></text>
+  </g>
+</svg>
